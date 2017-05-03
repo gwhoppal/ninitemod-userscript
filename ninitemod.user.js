@@ -4,6 +4,8 @@
 // @namespace		http://toswy.com/
 // @description		Highlight the selected software so I can screenshot it
 // @include			https://*ninite.com*
+// @downloadURL		https://github.com/gwhoppal/ninitemod-userscript/raw/master/ninitemod.user.js
+// @updateURL		https://github.com/gwhoppal/ninitemod-userscript/raw/master/ninitemod.user.js
 // ==/UserScript==
 
 /*! jQuery v2.1.4 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */
